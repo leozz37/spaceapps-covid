@@ -10,6 +10,7 @@ The Antivirus team thinking about the impairments that the dissemination of dise
 ## Links
 
 [Team page](https://covid19.spaceappschallenge.org/challenges/covid-challenges/human-factors/teams/antivirus/project) - Spaceapps Challenge
+
 [Pitch]() - 30 seconds presentation
 
 ## Mobile Screens
@@ -19,7 +20,7 @@ The Antivirus team thinking about the impairments that the dissemination of dise
 
 * **Diego Palma** - Professor, Computer Engineer
 * **Felipe Przysiada** - Professor, Computer Engineer
-* **Fernando Figaro]** - Automation Engineer
+* **Fernando Figaro** - Automation Engineer
 * **Leonardo Castilho** - Computer Engineer
 * **Leonardo Lima** - Computer Engineer
 * **Luana Moliani** - UI/UX Designer 
