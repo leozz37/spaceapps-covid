@@ -11,7 +11,7 @@ The Antivirus team thinking about the impairments that the dissemination of dise
 
 [Team page](https://covid19.spaceappschallenge.org/challenges/covid-challenges/human-factors/teams/antivirus/project) - Spaceapps Challenge
 
-[Pitch]() - 30 seconds presentation
+[Pitch video](https://www.youtube.com/watch?v=f3OrzMXWjiA) - 30 seconds presentation
 
 ## Mobile Screens
 
